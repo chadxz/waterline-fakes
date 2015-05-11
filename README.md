@@ -174,7 +174,7 @@ describe('the update method', function () {
 
 #### fakeWaterlineModel api
 
-```
+```js
 var fakeWaterlineModel = require('waterline-fakes').fakeWaterlineModel;
 var fakeModel = fakeWaterlineModel({
   props: {}, // properties you want the model to have. would be available at, for example, model.foo
