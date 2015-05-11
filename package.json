@@ -1,5 +1,6 @@
 {
-  "name": "waterline-fakes",
+  "name": "@chadxz/waterline-fakes",
+  "repository": "chadxz/waterline-fakes",
   "version": "1.0.0",
   "description": "Utilities to make it easier to fake out waterline models and collections for unit testing",
   "main": "index.js",
