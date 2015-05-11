@@ -1,0 +1,23 @@
+{
+  "name": "waterline-fakes",
+  "version": "1.0.0",
+  "description": "Utilities to make it easier to fake out waterline models and collections for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jshint . && jscs ."
+  },
+  "keywords": [
+    "waterline",
+    "sails"
+  ],
+  "author": "Chad McElligott <cmcelligott@digium.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.8.0",
+    "sinon": "^1.14.1"
+  },
+  "devDependencies": {
+    "jscs": "^1.13.1",
+    "jshint": "^2.7.0"
+  }
+}

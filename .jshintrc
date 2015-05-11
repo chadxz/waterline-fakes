@@ -1,0 +1,8 @@
+{
+  "node": true,
+  "latedef": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "newcap": false
+}
