@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 1.0.1 - 2015-05-14
+### Updated
+ - Updated README
+
 ## 1.0.0 - 2015-05-11
 ### Added
  - Initial commit.

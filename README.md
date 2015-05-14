@@ -84,7 +84,7 @@ describe('the list method', function () {
 
 #### fakeWaterlineChainMethod api
 
-```
+```js
 var fakeWaterlineChainMethod = require('waterline-fakes').fakeWaterlineChainMethod;
 var fakeMethod = fakeWaterlineChainMethod({
   err: {}, // Default: null. The error value you want the exec callback to be called with
